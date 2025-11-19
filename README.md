@@ -93,3 +93,6 @@ Enviá un Pull Request
 Desarrollado por leoSar834
 
 GitHub: https://github.com/leosar834
+
+## Catedra Base de Datos 
+(agregar un icono que represente una materia)
