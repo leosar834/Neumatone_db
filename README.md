@@ -94,5 +94,4 @@ Desarrollado por leoSar834
 
 GitHub: https://github.com/leosar834
 
-## Catedra Base de Datos 
-(agregar un icono que represente una materia)
+##🖥 Catedra Base de Datos 
