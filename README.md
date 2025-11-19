@@ -37,7 +37,8 @@ La base de datos está pensada para un sistema de administración completo para 
 ## 🛠️ Tecnologías utilizadas
 - **MySQL 8+**  
 - **MySQL Workbench**  
-- **SQL (DDL y DML)**  
+- **Laragon**
+- **Excel** 
 
 ---
 ## 📥 Instalación y uso  
