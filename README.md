@@ -81,13 +81,12 @@ Si querés mejorar el proyecto:
 
 Hacé un Fork del repositorio
 
-Creá una rama nueva (feature/lo-que-vas-a-hacer)
+Creá un branch nuevo (feature/lo-que-vas-a-hacer)
 
 Subí los cambios
 
 Enviá un Pull Request
 
-También podés abrir un Issue para sugerencias o errores.
 
 ## 👤 Autor
 
