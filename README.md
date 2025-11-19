@@ -41,9 +41,17 @@ La base de datos está pensada para un sistema de administración completo para 
 
 ---
 
-## 📥 Instalación y Uso
-Para utilizar esta base de datos:
+## 📥 Instalación y uso  
+1. Clona este repositorio:
+- git clone https://github.com/leosar834/Neumatone_db.git
+- Instala Laragon a traves de este link
+- Una vez instalado crea una base datos usando estos comandos:
+######1. mysql -u root -p
+######2. password: (enter)
+######3. create database coloquio
+- Luego vamos a importar la db que clonaste del repositorio 
+######4. exit
+######5. mysql -u root -p  coloquio < D:\laragon\coloquio.sql
 
-### 1. Clonar el repositorio
-```bash
+Eso voy por ahora como deberia seguir(es solo la parte de instalacion)
 git clone https://github.com/leosar834/Neumatone_db.git
